@@ -1,9 +1,40 @@
 # Adiutor v1
 ![Platform](https://img.shields.io/badge/platform-macOS%2014%2B-black?style=for-the-badge&logo=apple) ![SwiftUI](https://img.shields.io/badge/Built%20With-SwiftUI-orange?style=for-the-badge&logo=swift)
+<table>
+<tr>
 
-First public release of Adiutor — a native macOS study environment focused on intelligent focus tracking, analytics, and distraction-aware productivity workflows.
+<td width="260" align="center">
 
-Built entirely with SwiftUI and designed around a local-first architecture.
+<img
+    src="https://github.com/user-attachments/assets/bf5e5eae-3da1-4a95-8c55-81c49bea1d93"
+    alt="Adiutor Icon"
+    width="220"
+/>
+
+</td>
+
+<td valign="middle">
+
+Native macOS study environment engineered for calm, structured deep work.
+
+Adiutor combines intelligent study tracking, lightweight analytics, ambient focus systems, and distraction-minimal workflows into a unified local-first experience.
+
+Built entirely with SwiftUI and optimized for modern macOS workflows.
+
+<br>
+
+**Core Focus**
+- Passive Study Tracking
+- Ambient Focus Mode
+- Local Analytics
+- Smart Scheduling
+- Native macOS Design
+- Privacy-First Architecture
+
+</td>
+
+</tr>
+</table>
 
 ---
 
